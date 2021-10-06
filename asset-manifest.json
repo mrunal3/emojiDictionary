@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/emojiDictionary/static/css/main.c102918b.chunk.css",
-    "main.js": "/emojiDictionary/static/js/main.84890158.chunk.js",
+    "main.css": "/emojiDictionary/static/css/main.47c8a0ac.chunk.css",
+    "main.js": "/emojiDictionary/static/js/main.4c81712d.chunk.js",
     "runtime-main.js": "/emojiDictionary/static/js/runtime-main.24f5dd43.js",
     "static/js/2.620e073a.chunk.js": "/emojiDictionary/static/js/2.620e073a.chunk.js",
     "static/js/3.8e67d25d.chunk.js": "/emojiDictionary/static/js/3.8e67d25d.chunk.js",
@@ -11,7 +11,7 @@
   "entrypoints": [
     "static/js/runtime-main.24f5dd43.js",
     "static/js/2.620e073a.chunk.js",
-    "static/css/main.c102918b.chunk.css",
-    "static/js/main.84890158.chunk.js"
+    "static/css/main.47c8a0ac.chunk.css",
+    "static/js/main.4c81712d.chunk.js"
   ]
 }
